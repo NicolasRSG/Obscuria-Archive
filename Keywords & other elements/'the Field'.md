@@ -1,0 +1,1 @@
+Exterior area of the game where combat & encounters take place. During ventures, [[lost adventurers]] may appear to offer help or chat.
