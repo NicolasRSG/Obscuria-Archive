@@ -1,0 +1,14 @@
+The Dealer is the mischievous, opportunistic antagonist to the main plot; a dark, tall, cloaked figure, adorned with a big hat, that covers his entire face in dark deep shadow, their eyes and mouth are the only visible (emissive-like) feature.
+
+A trickster like ancient spirit that inhabits [['the Hub']], often offering a variety of different items and artifacts from their collection to passing adventurers, the few who dare to venture so far of course. Given his lack of straight up combat prowess, the Dealer has honed the fine art of tricking others, giving adventurers the false sense of hope and respite whoever they enter the hub in search of a place to rest and recuperate, as well as restock their 'inventory' for the journey. 
+
+Their vast collection of items is the result of thousands of thousands of years of compulsive pillaging, stealing, altering and even creation of such items, caused by their befouled curse (not specified/ which one bro?), as they obsessively held onto every single item they could put their hands on, in the hopes of, one day, perchance (you can't just write perchance like that), acquiring their power. Their collection would grow so tremendously vast, that not even the most colossal of castles/dungeons could store them all. For that, they were scattered/stored across the almost infinite and ever changing space of [['the Field']], and in time, even the Dealer themselves began to lose track of this extensive collection. Perchance. (PLS STOP!)
+
+The Dealer seeks their own strength, for relying upon endless tricks and cryptic deals could only lead them so far, therefore, they plot and await for the 'perfect opportunity', making so a decent enough adventurer does the dirty job of bringing said power to themselves. With the use of this said power, the Dealer could break free from his 'contract', the higher power that binds them to the 'hub' for all eternity.
+In the end, they could be, theoretically, viewed as much of a lost, lonely soul as the PC, whose only wish is to cease the cycle of loneliness and despair, to regain whatever they claim they lost.
+
+It's like those 'gain and lose' type of items, is what I mean to say, such items will give you a powerful improvement to one adventurer, but cost a distasteful disadvantage in return, as adventurers are bound to find out in the most unfortunate moments, the rest is, well, *environmental storytelling* (...)
+
+In the 'timeline' that the game routes takes place, the Dealer's hub has a board with 3 most notable beast hunts, promising a generous reward if they are slain.
+
+Their goal with this is that the power those selfsame beasts posses, could be brought to them, as per his inability to leave the hub, they could harbor/extract their power using specialized methods, gain this power, and break free. (Possible boss battle, and end of the hunt route)

@@ -1,0 +1,1 @@
+The healer is a druid-like supporter character who draws power from her natural surroundings.
