@@ -1,2 +1,0 @@
-- [[List of Key Items]]
-- List of [[forbidden artifacts]]

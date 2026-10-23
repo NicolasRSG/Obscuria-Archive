@@ -1,1 +1,0 @@
--  the [[Scroll of duplicity]] - creates two 'frail copies' of the chosen item.

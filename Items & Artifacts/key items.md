@@ -1,0 +1,2 @@
+-  The [[scroll of duplicity]] - creates two 'frail copies' of the chosen item;
+- All [[forbidden artifact(s)]] - resurrects party member(s);

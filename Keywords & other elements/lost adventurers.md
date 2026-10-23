@@ -1,5 +1,1 @@
-Occasionally during gameplay (or with the usage of an item to guarantee their appearance) you may stumble upon various sorts of lost souls in the [['the Field']], each one unique and following their own individual quests.
-
-These lonely adventurers are only 'playable' during that encounter, as the PC strongly refuses to stick together during their ventures.
-
-These few characters, even in their rare appearances, later prove to be important characters to one of the secret, good endings of the game, as they turn out to be valuable, newfound companions.
+The [["player character"]] ('s) previous party, victims of a failed dungeon raid that resulted in their death, and eventual corruption by [[interplanar ink]], rendering their spirits/souls bound to this plane, and unable to find rest in the afterlife, they now aimlessly wander [["the Field"]] in the form of [[tainted beasts]].
