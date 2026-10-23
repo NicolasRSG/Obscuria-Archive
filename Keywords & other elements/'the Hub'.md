@@ -1,1 +1,1 @@
-Safe sanctuary area of the game, abode of [[the Dealer]], and where the player may restock & prepare before venturing to [['the Field']].
+Safe sanctuary area of the game, both prison and abode of [[the Dealer]], and where the player may restock & prepare before venturing to [['the Field']].

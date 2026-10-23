@@ -4,7 +4,7 @@ The PC roams into the 'hub'. After the initial interaction with the Dealer, they
 
 The specifics of the deal then, tell you that you're to slay the accursed beasts that roam outside the hub ([['the Field']]), collect their so called power, and bring them back to the Dealer, you're permitted to pick them any order you'd like, BUT you can only pick the next one after the previous one is complete.
 After picking your mark, buy items and artifacts of your choice and proceed to the next phase.
-The first cycle is complete after all 3 beasts are slain and their routes resolved. (write on 'route resolution')
+The first cycle is complete after all 3 beasts are slain and their routes resolved. ==🟣(write on 'route resolution')==
 
 Cycle 2 - *"To bring back the party"*
 
