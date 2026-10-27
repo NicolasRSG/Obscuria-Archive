@@ -1,1 +1,0 @@
-The [["player character"]] ('s) previous party, victims of a failed dungeon raid that resulted in their death, and eventual corruption by [[interplanar ink]], rendering their spirits/souls bound to this plane, and unable to find rest in the afterlife, they now aimlessly wander [["the Field"]] in the form of [[tainted beasts]].
